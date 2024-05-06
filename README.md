@@ -1,8 +1,8 @@
 # Personal AI Assistant: Your Web and PDF Guide
 
-![ezgif com-gif-maker (1)](https://github.com/Abhi0323/Generative-AI-based-Personal-Assistant/assets/112967999/8718ba7f-e075-4a42-bbef-9a6e94ff50a3)
+![ezgif com-gif-maker (1)](https://github.com/vandanasnh/Generative-AI-based-Personal-Assistant/assets/112967999/8718ba7f-e075-4a42-bbef-9a6e94ff50a3)
 
-Visit my blog to delve deeper into the workflow of this application and understand how the RAG technology enhances its capabilities: https://medium.com/@abhishekgoud1212/introducing-the-ultimate-personal-ai-assistant-your-web-and-pdf-researcher-36bf9ee0cc96
+Visit the blog to delve deeper into the workflow of this application and understand how the RAG technology enhances its capabilities: https://medium.com/@abhishekgoud1212/introducing-the-ultimate-personal-ai-assistant-your-web-and-pdf-researcher-36bf9ee0cc96
 
 ## Project Overview:
 
